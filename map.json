@@ -55,7 +55,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/place\/opera"
+                 "value":".\/place\/opera.json"
                 }],
          "type":"tilelayer",
          "visible":true,
