@@ -398,7 +398,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":".\/opera.json#exit_backroom"
+                 "value":".\/opera.json#outdoor_backroom"
                 }],
          "type":"tilelayer",
          "visible":true,
